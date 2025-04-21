@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "543501039628",
+    "project_id": "moon-rummy-push-notification",
+    "storage_bucket": "moon-rummy-push-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543501039628:android:183a68c490d7a4c40b9629",
+        "android_client_info": {
+          "package_name": "com.ColourMoonTechnologies.MoonRummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543501039628-qeuit51925f1hstim3em0huteubvp9sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9ZnaL-RX1BOt9WC89UIwUU9roZVfABno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543501039628-qeuit51925f1hstim3em0huteubvp9sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

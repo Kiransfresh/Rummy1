@@ -1,0 +1,5 @@
+D:/Spr_Rummee/sprrummee/rummy-circlez-unity/.utmp/RelWithDebInfo/4jw3643l/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Spr_Rummee/sprrummee/rummy-circlez-unity/.utmp/RelWithDebInfo/4jw3643l/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/Spr_Rummee/sprrummee/rummy-circlez-unity/.utmp/RelWithDebInfo/4jw3643l/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/Spr_Rummee/sprrummee/rummy-circlez-unity/.utmp/RelWithDebInfo/4jw3643l/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+D:/Spr_Rummee/sprrummee/rummy-circlez-unity/.utmp/RelWithDebInfo/4jw3643l/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

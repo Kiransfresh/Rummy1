@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">543501039628</string>
+  <string name="google_storage_bucket" translatable="false">moon-rummy-push-notification.appspot.com</string>
+  <string name="project_id" translatable="false">moon-rummy-push-notification</string>
+  <string name="google_api_key" translatable="false">AIzaSyD9ZnaL-RX1BOt9WC89UIwUU9roZVfABno</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD9ZnaL-RX1BOt9WC89UIwUU9roZVfABno</string>
+  <string name="google_app_id" translatable="false">1:543501039628:android:183a68c490d7a4c40b9629</string>
+  <string name="default_web_client_id" translatable="false">543501039628-qeuit51925f1hstim3em0huteubvp9sd.apps.googleusercontent.com</string>
+</resources>

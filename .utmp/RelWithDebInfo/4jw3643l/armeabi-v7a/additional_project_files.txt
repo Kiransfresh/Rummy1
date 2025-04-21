@@ -1,0 +1,1 @@
+D:\Spr_Rummee\sprrummee\rummy-circlez-unity\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\UnitySwappyWrapper.h
